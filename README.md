@@ -15,7 +15,7 @@ Kalyan-Dombivli, Maharashtra, India
 
 - **Excel:** Advanced Excel (as listed on my resume)
 - **SQL:** Basic
-- **Python:** Basic
+- **Python:** Advanced
 - **R:** Basic
 - **Professional skills:** Problem-solving, communication, presentation, teamwork, and time management
 
