@@ -1,6 +1,6 @@
 # Ayush Yadav | Junior Data Analyst
 
-**Aspiring Junior Data Analyst** · Excel · SQL (Basic) · Python (Basic)
+**Aspiring Junior Data Analyst** · Excel · SQL (Basic) · Python (Advanced)
 
 Kalyan-Dombivli, Maharashtra, India  
 [Email](mailto:mrayushyadav09@gmail.com) · [LinkedIn](https://linkedin.com/in/ayushayushayush) · [GitHub](https://github.com/yayush1)
